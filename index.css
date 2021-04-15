@@ -1,0 +1,62 @@
+.myDiv {
+    border: 5px outset red;
+    width: 800px;
+    height: 400px;
+    background-color: peachpuff;    
+    align-self: center;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+.container{
+    margin-top: 150px;
+    margin-left:600px;
+    border: 5px solid;
+    margin: auto;
+    width:600px;
+    height: 700px;
+}
+
+.name{
+      /*width: 100%;*/
+      padding: 12px 20px;
+      margin: 8px 0;
+      margin-left: auto;
+      margin-right: auto;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+
+.emails {
+      
+      padding: 12px 20px;
+      margin: 8px 0;
+      margin-left: auto;
+      margin-right: auto;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+
+.phn {
+      
+      padding: 12px 20px;
+      margin: 8px 0;
+      margin-left: auto;
+      margin-right: auto;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+
+
+
+
+
+
+
+
